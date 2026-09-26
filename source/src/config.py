@@ -38,7 +38,7 @@ EXTRA_URLS_FOR_26 = _load_json_list(URLS_26_PATH, [])
 os.makedirs(GITHUBMIRROR_DIR, exist_ok=True)
 
 GITHUB_TOKEN = os.environ.get("MY_TOKEN")
-REPO_NAME = "AvenCores/goida-vpn-configs"
+REPO_NAME = "aneek0/goida-vpn-configs"
 
 EXTRA_URL_TIMEOUT = int(os.environ.get("EXTRA_URL_TIMEOUT", "6"))
 EXTRA_URL_MAX_ATTEMPTS = int(os.environ.get("EXTRA_URL_MAX_ATTEMPTS", "2"))

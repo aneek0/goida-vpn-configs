@@ -16,15 +16,15 @@
 # 📖 Описание проекта
 
 <p align="center">
-  <a href="https://github.com/AvenCores/goida-vpn-configs"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
+  <a href="https://github.com/aneek0/goida-vpn-configs"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge" alt="GPL-3.0 License"></a>
   <a href="https://avencores.github.io/goida-vpn-site/"><img src="https://img.shields.io/badge/Website-Goida%20VPN-207e5c?style=for-the-badge&logo=firefox" alt="Website"></a>
-  <a href="https://github.com/AvenCores/goida-vpn-configs/stargazers"><img src="https://img.shields.io/github/stars/AvenCores/goida-vpn-configs?style=for-the-badge" alt="GitHub stars"></a>
-  <img src="https://img.shields.io/github/forks/AvenCores/goida-vpn-configs?style=for-the-badge" alt="GitHub forks">
-  <a href="https://github.com/AvenCores/goida-vpn-configs/watchers">
-  <img src="https://img.shields.io/github/watchers/AvenCores/goida-vpn-configs?style=for-the-badge" alt="GitHub Watchers"></a>
-  <a href="https://github.com/AvenCores/goida-vpn-configs/pulls"><img src="https://img.shields.io/github/issues-pr/AvenCores/goida-vpn-configs?style=for-the-badge" alt="GitHub pull requests"></a>
-  <a href="https://github.com/AvenCores/goida-vpn-configs/issues"><img src="https://img.shields.io/github/issues/AvenCores/goida-vpn-configs?style=for-the-badge" alt="GitHub issues"></a>
+  <a href="https://github.com/aneek0/goida-vpn-configs/stargazers"><img src="https://img.shields.io/github/stars/aneek0/goida-vpn-configs?style=for-the-badge" alt="GitHub stars"></a>
+  <img src="https://img.shields.io/github/forks/aneek0/goida-vpn-configs?style=for-the-badge" alt="GitHub forks">
+  <a href="https://github.com/aneek0/goida-vpn-configs/watchers">
+  <img src="https://img.shields.io/github/watchers/aneek0/goida-vpn-configs?style=for-the-badge" alt="GitHub Watchers"></a>
+  <a href="https://github.com/aneek0/goida-vpn-configs/pulls"><img src="https://img.shields.io/github/issues-pr/aneek0/goida-vpn-configs?style=for-the-badge" alt="GitHub pull requests"></a>
+  <a href="https://github.com/aneek0/goida-vpn-configs/issues"><img src="https://img.shields.io/github/issues/aneek0/goida-vpn-configs?style=for-the-badge" alt="GitHub issues"></a>
 </p>
 
 Автоматически обновляемая коллекция публичных VPN-конфигов (`V2Ray` / `VLESS` / `Hysteria` / `Trojan` / `VMess` / `Reality` / `Shadowsocks`) для быстрого обхода блокировок.
@@ -68,32 +68,32 @@
 
 | № | Файл | Источник | Время | Дата |
 |--|--|--|--|--|
-| 1 | [`1.txt`](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/1.txt) | [sakha1370/OpenRay](https://github.com/sakha1370/OpenRay/raw/refs/heads/main/output/all_valid_proxies.txt) | 21:56 (МСК) | 04.08.2026 |
-| 2 | [`2.txt`](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/2.txt) | [sevcator/5ubscrpt10n](https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt) | 03:10 (МСК) | 30.07.2026 |
-| 3 | [`3.txt`](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/3.txt) | [yitong2333/proxy-minging](https://raw.githubusercontent.com/yitong2333/proxy-minging/refs/heads/main/v2ray.txt) | 23:19 (МСК) | 04.08.2026 |
-| 4 | [`4.txt`](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/4.txt) | [acymz/AutoVPN](https://raw.githubusercontent.com/acymz/AutoVPN/refs/heads/main/data/V2.txt) | 23:19 (МСК) | 04.08.2026 |
-| 5 | [`5.txt`](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/5.txt) | [miladtahanian/V2RayCFGDumper](https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/sub.txt) | 23:19 (МСК) | 04.08.2026 |
-| 6 | [`6.txt`](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/6.txt) | [roosterkid/openproxylist](https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt) | 23:19 (МСК) | 04.08.2026 |
-| 7 | [`7.txt`](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/7.txt) | [Epodonios/v2ray-configs](https://github.com/Epodonios/v2ray-configs/raw/main/Splitted-By-Protocol/trojan.txt) | 23:19 (МСК) | 04.08.2026 |
-| 8 | [`8.txt`](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/8.txt) | [ShatakVPN/ConfigForge-V2Ray](https://github.com/ShatakVPN/ConfigForge-V2Ray/raw/refs/heads/main/configs/vless.txt) | 23:19 (МСК) | 04.08.2026 |
-| 9 | [`9.txt`](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/9.txt) | [mohamadfg-dev/telegram-v2ray-configs-collector](https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/vless.txt) | 23:19 (МСК) | 04.08.2026 |
-| 10 | [`10.txt`](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/10.txt) | [mheidari98/.proxy](https://raw.githubusercontent.com/mheidari98/.proxy/refs/heads/main/vless) | 23:19 (МСК) | 04.08.2026 |
-| 11 | [`11.txt`](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/11.txt) | [youfoundamin/V2rayCollector](https://raw.githubusercontent.com/youfoundamin/V2rayCollector/main/mixed_iran.txt) | 20:17 (МСК) | 04.08.2026 |
-| 12 | [`12.txt`](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/12.txt) | [VOID-Anonymity/V.O.I.D-VPN_Bypass](https://github.com/VOID-Anonymity/V.O.I.D-VPN_Bypass/raw/refs/heads/main/url_work.txt) | 23:19 (МСК) | 04.08.2026 |
-| 13 | [`13.txt`](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/13.txt) | [cbusifabcap/daily_free_vpn](https://github.com/cbusifabcap/daily_free_vpn/raw/refs/heads/main/Z.txt) | 23:19 (МСК) | 04.08.2026 |
-| 14 | [`14.txt`](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/14.txt) | [LalatinaHub/Mineral](https://github.com/LalatinaHub/Mineral/raw/refs/heads/master/result/nodes) | 23:19 (МСК) | 04.08.2026 |
-| 15 | [`15.txt`](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/15.txt) | [miladtahanian/Config-Collector](https://raw.githubusercontent.com/miladtahanian/Config-Collector/refs/heads/main/mixed_iran.txt) | 23:19 (МСК) | 04.08.2026 |
-| 16 | [`16.txt`](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/16.txt) | [Pawdroid/Free-servers](https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub) | 23:19 (МСК) | 04.08.2026 |
-| 17 | [`17.txt`](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/17.txt) | [MhdiTaheri/V2rayCollector_Py](https://github.com/MhdiTaheri/V2rayCollector_Py/raw/refs/heads/main/sub/Mix/mix.txt) | 21:56 (МСК) | 04.08.2026 |
-| 18 | [`18.txt`](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/18.txt) | [free18/v2ray](https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt) | 09:45 (МСК) | 04.08.2026 |
-| 19 | [`19.txt`](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/19.txt) | [MhdiTaheri/V2rayCollector](https://github.com/MhdiTaheri/V2rayCollector/raw/refs/heads/main/sub/mix) | 23:19 (МСК) | 04.08.2026 |
-| 20 | [`20.txt`](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/20.txt) | [Argh94/Proxy-List](https://github.com/Argh94/Proxy-List/raw/refs/heads/main/All_Config.txt) | 23:19 (МСК) | 04.08.2026 |
-| 21 | [`21.txt`](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/21.txt) | [shabane/kamaji](https://raw.githubusercontent.com/shabane/kamaji/master/hub/merged.txt) | 07:21 (МСК) | 04.08.2026 |
-| 22 | [`22.txt`](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/22.txt) | [wuqb2i4f/xray-config-toolkit](https://raw.githubusercontent.com/wuqb2i4f/xray-config-toolkit/main/output/base64/mix-uri) | 21:56 (МСК) | 04.08.2026 |
-| 23 | [`23.txt`](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/23.txt) | [igareck/vpn-configs-for-russia](https://github.com/igareck/vpn-configs-for-russia/raw/refs/heads/main/BLACK_VLESS_RUS.txt) | 23:19 (МСК) | 04.08.2026 |
-| 24 | [`24.txt`](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/24.txt) | [Mr-Meshky/vify](https://github.com/Mr-Meshky/vify/raw/refs/heads/main/configs/vless.txt) | 23:19 (МСК) | 04.08.2026 |
-| 25 | [`25.txt`](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/25.txt) | [V2RayRoot/V2RayConfig](https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/refs/heads/main/Config/vless.txt) | 12:55 (МСК) | 07.07.2026 |
-| 26 | [`26.txt`](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt) | [Обход SNI/CIDR белых списков](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt) | 23:19 (МСК) | 04.08.2026 |
+| 1 | [`1.txt`](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/1.txt) | [sakha1370/OpenRay](https://github.com/sakha1370/OpenRay/raw/refs/heads/main/output/all_valid_proxies.txt) | 21:56 (МСК) | 04.08.2026 |
+| 2 | [`2.txt`](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/2.txt) | [sevcator/5ubscrpt10n](https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt) | 03:10 (МСК) | 30.07.2026 |
+| 3 | [`3.txt`](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/3.txt) | [yitong2333/proxy-minging](https://raw.githubusercontent.com/yitong2333/proxy-minging/refs/heads/main/v2ray.txt) | 23:19 (МСК) | 04.08.2026 |
+| 4 | [`4.txt`](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/4.txt) | [acymz/AutoVPN](https://raw.githubusercontent.com/acymz/AutoVPN/refs/heads/main/data/V2.txt) | 23:19 (МСК) | 04.08.2026 |
+| 5 | [`5.txt`](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/5.txt) | [miladtahanian/V2RayCFGDumper](https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/sub.txt) | 23:19 (МСК) | 04.08.2026 |
+| 6 | [`6.txt`](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/6.txt) | [roosterkid/openproxylist](https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt) | 23:19 (МСК) | 04.08.2026 |
+| 7 | [`7.txt`](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/7.txt) | [Epodonios/v2ray-configs](https://github.com/Epodonios/v2ray-configs/raw/main/Splitted-By-Protocol/trojan.txt) | 23:19 (МСК) | 04.08.2026 |
+| 8 | [`8.txt`](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/8.txt) | [ShatakVPN/ConfigForge-V2Ray](https://github.com/ShatakVPN/ConfigForge-V2Ray/raw/refs/heads/main/configs/vless.txt) | 23:19 (МСК) | 04.08.2026 |
+| 9 | [`9.txt`](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/9.txt) | [mohamadfg-dev/telegram-v2ray-configs-collector](https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/vless.txt) | 23:19 (МСК) | 04.08.2026 |
+| 10 | [`10.txt`](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/10.txt) | [mheidari98/.proxy](https://raw.githubusercontent.com/mheidari98/.proxy/refs/heads/main/vless) | 23:19 (МСК) | 04.08.2026 |
+| 11 | [`11.txt`](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/11.txt) | [youfoundamin/V2rayCollector](https://raw.githubusercontent.com/youfoundamin/V2rayCollector/main/mixed_iran.txt) | 20:17 (МСК) | 04.08.2026 |
+| 12 | [`12.txt`](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/12.txt) | [VOID-Anonymity/V.O.I.D-VPN_Bypass](https://github.com/VOID-Anonymity/V.O.I.D-VPN_Bypass/raw/refs/heads/main/url_work.txt) | 23:19 (МСК) | 04.08.2026 |
+| 13 | [`13.txt`](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/13.txt) | [cbusifabcap/daily_free_vpn](https://github.com/cbusifabcap/daily_free_vpn/raw/refs/heads/main/Z.txt) | 23:19 (МСК) | 04.08.2026 |
+| 14 | [`14.txt`](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/14.txt) | [LalatinaHub/Mineral](https://github.com/LalatinaHub/Mineral/raw/refs/heads/master/result/nodes) | 23:19 (МСК) | 04.08.2026 |
+| 15 | [`15.txt`](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/15.txt) | [miladtahanian/Config-Collector](https://raw.githubusercontent.com/miladtahanian/Config-Collector/refs/heads/main/mixed_iran.txt) | 23:19 (МСК) | 04.08.2026 |
+| 16 | [`16.txt`](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/16.txt) | [Pawdroid/Free-servers](https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub) | 23:19 (МСК) | 04.08.2026 |
+| 17 | [`17.txt`](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/17.txt) | [MhdiTaheri/V2rayCollector_Py](https://github.com/MhdiTaheri/V2rayCollector_Py/raw/refs/heads/main/sub/Mix/mix.txt) | 21:56 (МСК) | 04.08.2026 |
+| 18 | [`18.txt`](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/18.txt) | [free18/v2ray](https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt) | 09:45 (МСК) | 04.08.2026 |
+| 19 | [`19.txt`](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/19.txt) | [MhdiTaheri/V2rayCollector](https://github.com/MhdiTaheri/V2rayCollector/raw/refs/heads/main/sub/mix) | 23:19 (МСК) | 04.08.2026 |
+| 20 | [`20.txt`](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/20.txt) | [Argh94/Proxy-List](https://github.com/Argh94/Proxy-List/raw/refs/heads/main/All_Config.txt) | 23:19 (МСК) | 04.08.2026 |
+| 21 | [`21.txt`](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/21.txt) | [shabane/kamaji](https://raw.githubusercontent.com/shabane/kamaji/master/hub/merged.txt) | 07:21 (МСК) | 04.08.2026 |
+| 22 | [`22.txt`](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/22.txt) | [wuqb2i4f/xray-config-toolkit](https://raw.githubusercontent.com/wuqb2i4f/xray-config-toolkit/main/output/base64/mix-uri) | 21:56 (МСК) | 04.08.2026 |
+| 23 | [`23.txt`](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/23.txt) | [igareck/vpn-configs-for-russia](https://github.com/igareck/vpn-configs-for-russia/raw/refs/heads/main/BLACK_VLESS_RUS.txt) | 23:19 (МСК) | 04.08.2026 |
+| 24 | [`24.txt`](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/24.txt) | [Mr-Meshky/vify](https://github.com/Mr-Meshky/vify/raw/refs/heads/main/configs/vless.txt) | 23:19 (МСК) | 04.08.2026 |
+| 25 | [`25.txt`](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/25.txt) | [V2RayRoot/V2RayConfig](https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/refs/heads/main/Config/vless.txt) | 12:55 (МСК) | 07.07.2026 |
+| 26 | [`26.txt`](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt) | [Обход SNI/CIDR белых списков](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt) | 23:19 (МСК) | 04.08.2026 |
 
 ## 📊 Статистика репозитория
 | Показатель | Значение |
@@ -143,7 +143,7 @@ README.md            — этот файл
 
 ## 🔧 Локальный запуск генератора
 ```bash
-git clone https://github.com/AvenCores/goida-vpn-configs
+git clone https://github.com/aneek0/goida-vpn-configs
 cd goida-vpn-configs/source
 python -m pip install -r requirements.txt
 export MY_TOKEN=<GITHUB_TOKEN>   # токен с правом repo, чтобы пушить изменения
@@ -194,7 +194,7 @@ python main.py                  # конфиги появятся в ../githubmi
 
 <summary>👩‍💻 Исходный код для генерации вечно актуальных конфигов</summary>
 
-Ссылка на исходный код — [Ссылка](https://github.com/AvenCores/goida-vpn-configs/tree/main/source)
+Ссылка на исходный код — [Ссылка](https://github.com/aneek0/goida-vpn-configs/tree/main/source)
 
 </details>
 
@@ -204,40 +204,40 @@ python main.py                  # конфиги появятся в ../githubmi
 
 <summary>📋 Общий список всех вечно актуальных конфигов</summary>
 
-> Рекомендованные списки: **[1](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/1.txt)**, **[6](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/6.txt)**, **[22](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/22.txt)**, **[23](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/23.txt)**, **[24](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/24.txt)** и **[25](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/25.txt)**.
+> Рекомендованные списки: **[1](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/1.txt)**, **[6](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/6.txt)**, **[22](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/22.txt)**, **[23](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/23.txt)**, **[24](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/24.txt)** и **[25](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/25.txt)**.
 
-> Обход SNI/CIDR белых списков: **[26](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt)** | **[Видео гайд по установке](https://youtu.be/uz6JmOO7sGU)**.
+> Обход SNI/CIDR белых списков: **[26](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt)** | **[Видео гайд по установке](https://youtu.be/uz6JmOO7sGU)**.
 
  - [ ] **Вечно актуальные**
 
-1) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/1.txt`
-2) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/2.txt`
-3) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/3.txt`
-4) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/4.txt`
-5) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/5.txt`
-6) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/6.txt`
-7) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/7.txt`
-8) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/8.txt`
-9) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/9.txt`
-10) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/10.txt`
-11) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/11.txt`
-12) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/12.txt`
-13) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/13.txt`
-14) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/14.txt`
-15) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/15.txt`
-16) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/16.txt`
-17) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/17.txt`
-18) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/18.txt`
-19) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/19.txt`
-20) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/20.txt`
-21) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/21.txt`
-22) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/22.txt`
-23) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/23.txt`
-24) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/24.txt`
-25) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/25.txt`
-26) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt`
+1) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/1.txt`
+2) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/2.txt`
+3) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/3.txt`
+4) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/4.txt`
+5) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/5.txt`
+6) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/6.txt`
+7) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/7.txt`
+8) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/8.txt`
+9) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/9.txt`
+10) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/10.txt`
+11) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/11.txt`
+12) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/12.txt`
+13) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/13.txt`
+14) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/14.txt`
+15) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/15.txt`
+16) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/16.txt`
+17) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/17.txt`
+18) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/18.txt`
+19) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/19.txt`
+20) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/20.txt`
+21) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/21.txt`
+22) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/22.txt`
+23) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/23.txt`
+24) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/24.txt`
+25) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/25.txt`
+26) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt`
 
-🔗 [Ссылка на QR-коды вечно актуальных конфигов](https://github.com/AvenCores/goida-vpn-configs/tree/main/qr-codes)
+🔗 [Ссылка на QR-коды вечно актуальных конфигов](https://github.com/aneek0/goida-vpn-configs/tree/main/qr-codes)
 </details>
 
 
@@ -250,38 +250,38 @@ python main.py                  # конфиги появятся в ../githubmi
 
 **2.** Копируем в буфер обмена: 
 
-> Рекомендованные списки: **[1](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/1.txt)**, **[6](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/6.txt)**, **[22](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/22.txt)**, **[23](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/23.txt)**, **[24](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/24.txt)** и **[25](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/25.txt)**.
+> Рекомендованные списки: **[1](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/1.txt)**, **[6](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/6.txt)**, **[22](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/22.txt)**, **[23](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/23.txt)**, **[24](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/24.txt)** и **[25](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/25.txt)**.
 
-> Обход SNI/CIDR белых списков: **[26](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt)** | **[Видео гайд по установке](https://youtu.be/uz6JmOO7sGU)**.
+> Обход SNI/CIDR белых списков: **[26](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt)** | **[Видео гайд по установке](https://youtu.be/uz6JmOO7sGU)**.
 
  - [ ] **Вечно актуальные**
 
-1) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/1.txt`
-2) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/2.txt`
-3) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/3.txt`
-4) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/4.txt`
-5) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/5.txt`
-6) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/6.txt`
-7) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/7.txt`
-8) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/8.txt`
-9) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/9.txt`
-10) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/10.txt`
-11) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/11.txt`
-12) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/12.txt`
-13) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/13.txt`
-14) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/14.txt`
-15) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/15.txt`
-16) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/16.txt`
-17) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/17.txt`
-18) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/18.txt`
-19) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/19.txt`
-20) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/20.txt`
-21) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/21.txt`
-22) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/22.txt`
-23) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/23.txt`
-24) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/24.txt`
-25) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/25.txt`
-26) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt`
+1) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/1.txt`
+2) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/2.txt`
+3) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/3.txt`
+4) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/4.txt`
+5) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/5.txt`
+6) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/6.txt`
+7) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/7.txt`
+8) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/8.txt`
+9) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/9.txt`
+10) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/10.txt`
+11) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/11.txt`
+12) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/12.txt`
+13) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/13.txt`
+14) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/14.txt`
+15) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/15.txt`
+16) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/16.txt`
+17) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/17.txt`
+18) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/18.txt`
+19) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/19.txt`
+20) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/20.txt`
+21) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/21.txt`
+22) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/22.txt`
+23) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/23.txt`
+24) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/24.txt`
+25) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/25.txt`
+26) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt`
 
 **3.** Заходим в приложение **«v2rayNG»** и в правом верхнем углу нажимаем на ➕, а затем выбираем **«Импорт из буфера обмена»**.
    
@@ -297,11 +297,11 @@ python main.py                  # конфиги появятся в ../githubmi
 
 **1.** Скачиваем **«v2rayNG»** — [Ссылка](https://github.com/2dust/v2rayNG/releases/download/2.2.6/v2rayNG_2.2.6_armeabi-v7a.apk)
 
-> Рекомендованные **«QR-коды»**: **[1](https://github.com/AvenCores/goida-vpn-configs/blob/main/qr-codes/1.png)**, **[6](https://github.com/AvenCores/goida-vpn-configs/blob/main/qr-codes/6.png)**, **[22](https://github.com/AvenCores/goida-vpn-configs/blob/main/qr-codes/22.png)**, **[23](https://github.com/AvenCores/goida-vpn-configs/blob/main/qr-codes/23.png)**, **[24](https://github.com/AvenCores/goida-vpn-configs/blob/main/qr-codes/24.png)** и **[25](https://github.com/AvenCores/goida-vpn-configs/blob/main/qr-codes/25.png)**.
+> Рекомендованные **«QR-коды»**: **[1](https://github.com/aneek0/goida-vpn-configs/blob/main/qr-codes/1.png)**, **[6](https://github.com/aneek0/goida-vpn-configs/blob/main/qr-codes/6.png)**, **[22](https://github.com/aneek0/goida-vpn-configs/blob/main/qr-codes/22.png)**, **[23](https://github.com/aneek0/goida-vpn-configs/blob/main/qr-codes/23.png)**, **[24](https://github.com/aneek0/goida-vpn-configs/blob/main/qr-codes/24.png)** и **[25](https://github.com/aneek0/goida-vpn-configs/blob/main/qr-codes/25.png)**.
 
-> Обход SNI/CIDR белых списков: **[26](https://github.com/AvenCores/goida-vpn-configs/blob/main/qr-codes/26.png)** | **[Видео гайд по установке](https://youtu.be/uz6JmOO7sGU)**.
+> Обход SNI/CIDR белых списков: **[26](https://github.com/aneek0/goida-vpn-configs/blob/main/qr-codes/26.png)** | **[Видео гайд по установке](https://youtu.be/uz6JmOO7sGU)**.
 
-**2.** Скачиваем **«QR-коды»** вечно актуальных конфигов — [Ссылка](https://github.com/AvenCores/goida-vpn-configs/tree/main/qr-codes)
+**2.** Скачиваем **«QR-коды»** вечно актуальных конфигов — [Ссылка](https://github.com/aneek0/goida-vpn-configs/tree/main/qr-codes)
 
 **3**. Заходим в приложение **«v2rayNG»** и в правом верхнем углу нажимаем на ➕, а затем выбираем **«Импорт из QR-кода»**, выбираем картинку нажав на иконку фото в правом верхнем углу.
 
@@ -377,38 +377,38 @@ python main.py                  # конфиги появятся в ../githubmi
 
 **2.** Копируем в буфер обмена: 
 
-> Рекомендованные списки: **[1](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/1.txt)**, **[6](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/6.txt)**, **[22](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/22.txt)**, **[23](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/23.txt)**, **[24](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/24.txt)** и **[25](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/25.txt)**.
+> Рекомендованные списки: **[1](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/1.txt)**, **[6](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/6.txt)**, **[22](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/22.txt)**, **[23](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/23.txt)**, **[24](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/24.txt)** и **[25](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/25.txt)**.
 
-> Обход SNI/CIDR белых списков: **[26](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt)** | **[Видео гайд по установке](https://youtu.be/uz6JmOO7sGU)**.
+> Обход SNI/CIDR белых списков: **[26](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt)** | **[Видео гайд по установке](https://youtu.be/uz6JmOO7sGU)**.
 
  - [ ] **Вечно актуальные**
 
-1) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/1.txt`
-2) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/2.txt`
-3) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/3.txt`
-4) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/4.txt`
-5) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/5.txt`
-6) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/6.txt`
-7) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/7.txt`
-8) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/8.txt`
-9) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/9.txt`
-10) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/10.txt`
-11) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/11.txt`
-12) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/12.txt`
-13) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/13.txt`
-14) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/14.txt`
-15) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/15.txt`
-16) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/16.txt`
-17) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/17.txt`
-18) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/18.txt`
-19) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/19.txt`
-20) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/20.txt`
-21) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/21.txt`
-22) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/22.txt`
-23) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/23.txt`
-24) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/24.txt`
-25) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/25.txt`
-26) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt`
+1) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/1.txt`
+2) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/2.txt`
+3) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/3.txt`
+4) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/4.txt`
+5) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/5.txt`
+6) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/6.txt`
+7) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/7.txt`
+8) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/8.txt`
+9) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/9.txt`
+10) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/10.txt`
+11) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/11.txt`
+12) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/12.txt`
+13) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/13.txt`
+14) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/14.txt`
+15) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/15.txt`
+16) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/16.txt`
+17) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/17.txt`
+18) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/18.txt`
+19) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/19.txt`
+20) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/20.txt`
+21) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/21.txt`
+22) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/22.txt`
+23) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/23.txt`
+24) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/24.txt`
+25) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/25.txt`
+26) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt`
 
 **3.** Нажимаем на **«Профили»**, а затем **«Добавить профиль из буфера обмена»**.
 
@@ -460,38 +460,38 @@ python main.py                  # конфиги появятся в ../githubmi
 
 **2.** Копируем в буфер обмена:
 
-> Рекомендованные списки: **[1](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/1.txt)**, **[6](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/6.txt)**, **[22](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/22.txt)**, **[23](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/23.txt)**, **[24](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/24.txt)** и **[25](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/25.txt)**.
+> Рекомендованные списки: **[1](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/1.txt)**, **[6](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/6.txt)**, **[22](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/22.txt)**, **[23](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/23.txt)**, **[24](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/24.txt)** и **[25](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/25.txt)**.
 
-> Обход SNI/CIDR белых списков: **[26](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt)** | **[Видео гайд по установке](https://youtu.be/uz6JmOO7sGU)**.
+> Обход SNI/CIDR белых списков: **[26](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt)** | **[Видео гайд по установке](https://youtu.be/uz6JmOO7sGU)**.
 
  - [ ] **Вечно актуальные**
 
-1) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/1.txt`
-2) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/2.txt`
-3) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/3.txt`
-4) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/4.txt`
-5) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/5.txt`
-6) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/6.txt`
-7) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/7.txt`
-8) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/8.txt`
-9) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/9.txt`
-10) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/10.txt`
-11) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/11.txt`
-12) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/12.txt`
-13) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/13.txt`
-14) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/14.txt`
-15) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/15.txt`
-16) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/16.txt`
-17) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/17.txt`
-18) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/18.txt`
-19) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/19.txt`
-20) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/20.txt`
-21) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/21.txt`
-22) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/22.txt`
-23) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/23.txt`
-24) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/24.txt`
-25) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/25.txt`
-26) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt`
+1) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/1.txt`
+2) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/2.txt`
+3) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/3.txt`
+4) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/4.txt`
+5) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/5.txt`
+6) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/6.txt`
+7) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/7.txt`
+8) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/8.txt`
+9) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/9.txt`
+10) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/10.txt`
+11) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/11.txt`
+12) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/12.txt`
+13) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/13.txt`
+14) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/14.txt`
+15) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/15.txt`
+16) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/16.txt`
+17) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/17.txt`
+18) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/18.txt`
+19) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/19.txt`
+20) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/20.txt`
+21) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/21.txt`
+22) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/22.txt`
+23) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/23.txt`
+24) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/24.txt`
+25) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/25.txt`
+26) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt`
 
 **3.** Заходим в приложение **«V2Box - V2ray Client»** и переходим во вкладку **«Config»**, нажимаем на плюсик в правом верхнем углу, затем — **«Добавить подписку»**, вводим любое **«Название»** и вставляем ссылку на конфиг в поле **«URL»**.
 
@@ -523,38 +523,38 @@ python main.py                  # конфиги появятся в ../githubmi
 
 **3.** Копируем в буфер обмена:
 
-> Рекомендованные списки: **[1](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/1.txt)**, **[6](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/6.txt)**, **[22](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/22.txt)**, **[23](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/23.txt)**, **[24](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/24.txt)** и **[25](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/25.txt)**.
+> Рекомендованные списки: **[1](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/1.txt)**, **[6](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/6.txt)**, **[22](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/22.txt)**, **[23](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/23.txt)**, **[24](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/24.txt)** и **[25](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/25.txt)**.
 
-> Обход SNI/CIDR белых списков: **[26](https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt)** | **[Видео гайд по установке](https://youtu.be/uz6JmOO7sGU)**.
+> Обход SNI/CIDR белых списков: **[26](https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt)** | **[Видео гайд по установке](https://youtu.be/uz6JmOO7sGU)**.
 
  - [ ] **Вечно актуальные**
 
-1) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/1.txt`
-2) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/2.txt`
-3) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/3.txt`
-4) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/4.txt`
-5) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/5.txt`
-6) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/6.txt`
-7) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/7.txt`
-8) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/8.txt`
-9) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/9.txt`
-10) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/10.txt`
-11) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/11.txt`
-12) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/12.txt`
-13) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/13.txt`
-14) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/14.txt`
-15) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/15.txt`
-16) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/16.txt`
-17) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/17.txt`
-18) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/18.txt`
-19) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/19.txt`
-20) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/20.txt`
-21) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/21.txt`
-22) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/22.txt`
-23) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/23.txt`
-24) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/24.txt`
-25) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/25.txt`
-26) `https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt`
+1) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/1.txt`
+2) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/2.txt`
+3) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/3.txt`
+4) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/4.txt`
+5) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/5.txt`
+6) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/6.txt`
+7) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/7.txt`
+8) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/8.txt`
+9) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/9.txt`
+10) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/10.txt`
+11) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/11.txt`
+12) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/12.txt`
+13) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/13.txt`
+14) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/14.txt`
+15) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/15.txt`
+16) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/16.txt`
+17) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/17.txt`
+18) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/18.txt`
+19) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/19.txt`
+20) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/20.txt`
+21) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/21.txt`
+22) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/22.txt`
+23) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/23.txt`
+24) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/24.txt`
+25) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/25.txt`
+26) `https://github.com/aneek0/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt`
 
 **4.** Нажимаем на кнопку **«Добавить из буфера обмена»**.
    
