@@ -1,3 +1,4 @@
-vless://d9090ce9-388b-45b9-9e84-64eac5522b8a@179.198.49.84:47000?security=reality&encryption=none&pbk=EJrtmRT2Acb9nNj8Yc-nfPxRprxkF52zpDcnmJ0qNS0&headerType=none&fp=chrome&type=tcp&sni=www.goo.gl&sid=96bb9775a5#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.127.141:8443?security=tls&sni=hop-germany-september.dynuddns.com#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://933eb45b-0e97-4ed1-bfb9-e34bd0b4342c@185.33.24.85:443?security=reality&encryption=none&pbk=M7fn-U9PikoH_WXu6HbDE5bi9ej5cFN8bgWy8qF14WU&headerType=none&fp=chrome&type=tcp&sni=a.wb.ru&sid=76f547961a8ca082#%E6%B3%95%E5%9B%BD+V2CROSS.COM
+trojan://humanity@82.117.245.125:2053?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
+vless://81a227e3-cb97-40fe-b7b6-45a60ed065cf@node.remnagecsp.ru:7443?security=reality&encryption=none&pbk=0BVxZKOt6wO0jIB1xRkAAtaFUkmyFAbVWfkkKSJBfEI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=node.remnagecsp.ru&sid=570ffeb12f6e4635#%E7%88%B1%E5%B0%94%E5%85%B0+V2CROSS.COM
+vless://37615d66-5467-44a3-bc23-f2c3bef7f761@tk1.high-speed-test-56424.me:443?security=reality&type=tcp&packetEncoding=xudp&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=21270a66&pbk=p8VhFzvFOBAhWAEAeWmwDxT3xBSRsGYixqi0qnLFnBM&encryption=none#%E7%BE%8E%E5%9B%BD+%E6%83%A0%E6%99%AEHP
+hysteria2://1beb216e3f60aea9555dae60d219a5ca@152.69.231.175:50160?security=tls&sni=152-69-231-175.liao.kdns.fr#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
