@@ -1,4 +1,2 @@
-vless://1c5ed2e1-56da-41ab-9a78-159d9892ec17@185.147.26.210:443?security=reality&encryption=none&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=example.com&sid=e4aa362b5f9d07d7#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
-vless://81a227e3-cb97-40fe-b7b6-45a60ed065cf@node.remnagecsp.ru:7443?security=reality&encryption=none&pbk=0BVxZKOt6wO0jIB1xRkAAtaFUkmyFAbVWfkkKSJBfEI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=node.remnagecsp.ru&sid=570ffeb12f6e4635#%E7%88%B1%E5%B0%94%E5%85%B0+V2CROSS.COM
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@de1.xiaoliyu.cyou:4433?security=tls&sni=de1.xiaoliyu.cyou#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A+V2CROSS.COM
-vless://0afc6426-606c-48e7-bd70-3c424a416842@us22.sofast.live:58011?encryption=none&security=&type=tcp#%E5%8C%97%E4%BA%AC%E5%B8%82+%E7%99%BE%E5%BA%A6%E7%94%B5%E4%BF%A1%E8%8A%82%E7%82%B9
+vless://76ac91c5-ea82-4046-8ee7-2ffbb563ac94@geo.shkola112.site:443?encryption=none&host=geo.shkola112.site&path=/api-vless&security=tls&sni=geo.shkola112.site&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://5aaa5259-f924-4682-a4a3-149d472a9dcc@jp.sofast.live:52683?encryption=none&security=&type=tcp#%E5%8C%97%E4%BA%AC%E5%B8%82+%E7%99%BE%E5%BA%A6%E7%94%B5%E4%BF%A1%E8%8A%82%E7%82%B9
