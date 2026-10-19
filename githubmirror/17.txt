@@ -748,6 +748,8 @@ vless://63c5f8b3-3d3d-46a9-ae1f-58635cdaf891@185.121.179.122:443?security=realit
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@205.237.110.254:443?security=reality&encryption=none&pbk=IG6lxrx_xkGOoBuo3DC8sgQoIFmqVgznIr0qOuNO0w4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=zsit.eu-cdn294.com&sid=cd2d53510b4df2a8#Telegram:@v2rayng3
 vless://e558719d-e09b-442c-a0c4-f9471fcc3075@51.75.118.149:20016?path=%2Falibodama-ws&security=&encryption=none&host=51.75.118.149&type=ws#Telegram:@v2rayng3
 vless://ad263f1c-199e-4aaf-bf22-c3ad0407d377@31.77.148.89:45021?type=tcp&encryption=none&security=none#tel:@v2rayng3Channel : @v2rayng3Channel : @SERVER444
+vless://54327b73-3ce6-437d-9d00-3d6398d9f9f5@13.140.91.117:23808?encryption=none&security=none&type=tcp#n1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUWlhSWx6ME1kOE53VHpiUlNpWG9pRDJaQkVMM1hHQmNzVVplUXA0V0hrPQ@e5.cover20.ir:31973?type=tcp#e5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#@v2rayng3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#@v2rayng3
 trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#@v2rayng3
@@ -917,6 +919,8 @@ vless://63c5f8b3-3d3d-46a9-ae1f-58635cdaf891@185.121.179.122:443?security=realit
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@205.237.110.254:443?security=reality&encryption=none&pbk=IG6lxrx_xkGOoBuo3DC8sgQoIFmqVgznIr0qOuNO0w4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=zsit.eu-cdn294.com&sid=cd2d53510b4df2a8#Telegram:@v2rayng3
 vless://e558719d-e09b-442c-a0c4-f9471fcc3075@51.75.118.149:20016?path=%2Falibodama-ws&security=&encryption=none&host=51.75.118.149&type=ws#Telegram:@v2rayng3
 vless://ad263f1c-199e-4aaf-bf22-c3ad0407d377@31.77.148.89:45021?type=tcp&encryption=none&security=none#tel:@v2rayng3
+vless://54327b73-3ce6-437d-9d00-3d6398d9f9f5@13.140.91.117:23808?encryption=none&security=none&type=tcp#n1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUWlhSWx6ME1kOE53VHpiUlNpWG9pRDJaQkVMM1hHQmNzVVplUXA0V0hrPQ@e5.cover20.ir:31973?type=tcp#e5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#@v2rayng3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#@v2rayng3
 trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#@v2rayng3
@@ -1088,6 +1092,8 @@ vless://63c5f8b3-3d3d-46a9-ae1f-58635cdaf891@185.121.179.122:443?security=realit
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@205.237.110.254:443?security=reality&encryption=none&pbk=IG6lxrx_xkGOoBuo3DC8sgQoIFmqVgznIr0qOuNO0w4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=zsit.eu-cdn294.com&sid=cd2d53510b4df2a8#Telegram:@v2rayng3
 vless://e558719d-e09b-442c-a0c4-f9471fcc3075@51.75.118.149:20016?path=%2Falibodama-ws&security=&encryption=none&host=51.75.118.149&type=ws#Telegram:@v2rayng3
 vless://ad263f1c-199e-4aaf-bf22-c3ad0407d377@31.77.148.89:45021?type=tcp&encryption=none&security=none#tel:@v2rayng3Channel : @v2rayng3Channel : @SERVER444
+vless://54327b73-3ce6-437d-9d00-3d6398d9f9f5@13.140.91.117:23808?encryption=none&security=none&type=tcp#n1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUWlhSWx6ME1kOE53VHpiUlNpWG9pRDJaQkVMM1hHQmNzVVplUXA0V0hrPQ@e5.cover20.ir:31973?type=tcp#e5
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.205.6:62145?encryption=none&packetEncoding=xudp#https://t.me/ShadowsocksM4
 vless://XpnTeam-17@199.232.78.160:443?encryption=none&security=tls&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&type=ws&host=Appxdn.global.ssl.fastly.net&path=/&packetEncoding=xudp#https://t.me/ShadowsocksM5
 vless://303c2140-19ff-4eea-b1b1-865d4160d261@2.26.124.199:443?encryption=none&type=grpc&security=reality&sni=ai.android&fp=chrome&pbk=uE1WBdW9se1rQnx8Vh-a1jjaehzK-iUmCVrPui5KU3g&sid=53499a662395&spx=/#https://t.me/ShadowsocksM6
