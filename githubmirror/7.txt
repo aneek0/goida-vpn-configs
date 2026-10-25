@@ -492,10 +492,13 @@ trojan://LcICDcp%21jD9TFV%24NbH@dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.
 trojan://eabf1999fefbb7d2@waysi.waysi6688.workers.dev:2087?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&fp=ios&host=waysi.waysi6688.workers.dev&path=%2Ftr%2FsMpzOZ0eWEt6jbZ1jjN3BaM7LLoQ&sni=WaYSi.wAYsI6688.WOrkeRS.deV&type=ws#EPODONIOS
 trojan://MiTiVPN@199.232.78.160:443?alpn=http%2F1.1&fp=chrome&host=mitivpn-mitivpn-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&sni=ssl.fastly.com&type=ws#EPODONIOS
 trojan://humanity@104.19.229.21:443?path=%2F%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
-trojan://Trojan@82164024@ca.tronsg.com:443?security=tls#EPODONIOS
-trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#EPODONIOS
 trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#EPODONIOS
+trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#EPODONIOS
+trojan://ee844c5ef7504bcf@jus134.pacemakere.com:20017?security=tls&sni=jus134.pacemakere.com#EPODONIOS
+trojan://e56e752c86a640cd@gu232.izzzzzi.com:20052?security=tls&sni=gu232.izzzzzi.com#EPODONIOS
+trojan://7343dd3d00b74cd2@uis175.pacemakere.com:20005?security=tls#EPODONIOS
 trojan://XuMweB2PWs@2.27.109.179:45464?security=tls&sni=2.27.109.179.sslip.io#EPODONIOS
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.2:10820?security=tls#EPODONIOS
 trojan://24913fd0-a94b-4ed9-9b0e-fddb06af63d3@183.245.146.6:21001?security=tls&sni=65-108-102-32.nhost.00cdn.com#EPODONIOS
 trojan://ae7eb4dwyaz25pxwgq59@66.23.203.21:59689?security=tls#EPODONIOS
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top#EPODONIOS
@@ -503,6 +506,3 @@ trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@it1.dedushka.top:443?security=tls&sni=
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&sni=de7.dedushka.top#EPODONIOS
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&sni=pl1.dedushka.top#EPODONIOS
 trojan://ZlYZ0KxC8uxngp736aR34y3TaFwFOC95DO2XR8yeeAD3cESNDSCBqAYIjpaSlz@219.76.13.175:443?security=tls&sni=python.protocolbuffer.com#EPODONIOS
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?security=tls&sni=de2.dedushka.top#EPODONIOS
-trojan://ca98d907-57b1-4eab-b272-6eb248b71084@143.198.237.122:10002?security=tls&sni=aewfhe5z1pokrkw8bi9g13.xingbayun.buzz#EPODONIOS
-trojan://ca98d907-57b1-4eab-b272-6eb248b71084@165.22.4.188:10003?security=tls&sni=aewfhe5z1pokrkw8bi9g14.xingbayun.buzz#EPODONIOS
