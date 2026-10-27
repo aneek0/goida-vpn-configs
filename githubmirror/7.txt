@@ -1,7 +1,13 @@
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.nextjobopportunityandclaimyouridealrole.com#EPODONIOS
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.nextjobopportunityandclaimyouridealrole.com#EPODONIOS
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.nextjobopportunityandclaimyouridealrole.com#EPODONIOS
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.nextjobopportunityandclaimyouridealrole.com#EPODONIOS
+trojan://0y7hid61k3k2vuy1@uwu.blueknightnet.qzz.io:2087?path=/@BlueKnight_net--@BlueKnight_net--@BlueKnight_net&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=uwu.dianaw.cc.cd#EPODONIOS
+trojan://0y7hid61k3k2vuy1@uwu.blueknightnet.qzz.io:2087?path=/@BlueKnight_net--@BlueKnight_net--@BlueKnight_net&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=uwu.dianaw.cc.cd#EPODONIOS
+trojan://0y7hid61k3k2vuy1@uwu.blueknightnet.qzz.io:2087?path=/@VPNine1--@VPNine1--@VPNine1&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=uwu.dianaw.cc.cd#EPODONIOS
 trojan://2223970e6a0b8ad289d3c43dd85dd2c9@167.82.101.159:443?mode=auto&security=tls&alpn=h2&extra={  "uplinkDataPlacement" : "auto"}&insecure=0&host=denyyyour-name.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjmg2.m2k699.com:24999?security=tls&fp=chrome&sni=tjmg2.m2k699.com#EPODONIOS
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.122:443?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=de2.dedushka.top#EPODONIOS
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.122:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de2.dedushka.top#EPODONIOS
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.122:443?security=tls&sni=de2.dedushka.top&alpn=http/1.1&type=tcp&headerType=none#EPODONIOS
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.235:443?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=de9.dedushka.top#EPODONIOS
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.235:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de9.dedushka.top#EPODONIOS
@@ -92,11 +98,6 @@ trojan://MiTiVPN@151.101.56.7:443?path=@mehrosaboran&security=tls&alpn=http/1.1&
 trojan://MiTiVPN@151.101.56.7:443?path=@mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 trojan://MiTiVPN@151.101.56.7:443?security=tls&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&allowinsecure=0&type=ws&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&path=@mehrosaboran#EPODONIOS
 trojan://MiTiVPN@151.101.56.9:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-trojan://MiTiVPN@167.82.76.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-trojan://MiTiVPN@199.232.78.101:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/--TELEGRAM--TOOTFFARANGI&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-trojan://MiTiVPN@199.232.78.101:443?path=/--TELEGRAM--TOOTFFARANGI&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-trojan://MiTiVPN@199.232.78.101:443?path=/--TELEGRAM--TOOTFFARANGI&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-trojan://MiTiVPN@199.232.78.101:443?path=/--TELEGRAM--TOOTFFARANGI&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 trojan://MiTiVPN@199.232.78.101:443?path=/--TELEGRAM--TOOTFFARANGI&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 trojan://MiTiVPN@199.232.78.101:443?path=/--TELEGRAM--TOOTFFARANGI&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 trojan://MiTiVPN@199.232.78.188:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
@@ -109,10 +110,8 @@ trojan://Trojan@82164024@92.118.150.146:443?security=tls&insecure=0&headerType=n
 trojan://V2raySaman@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com#EPODONIOS
 trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@fi.zhabulik.ru:443?security=tls&alpn=h2,http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fi.zhabulik.ru#EPODONIOS
 trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@pl.zhabulik.ru:443?security=tls&alpn=h2,http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl.zhabulik.ru#EPODONIOS
-trojan://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:443#EPODONIOS
 trojan://XuMweB2PWs@2.27.109.179:45464?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=2.27.109.179.sslip.io#EPODONIOS
 trojan://XuMweB2PWs@2.27.109.179:45464?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=2.27.109.179.sslip.io#EPODONIOS
-trojan://XuMweB2PWs@2.27.109.179:45464?sni=2.27.109.179.sslip.io#EPODONIOS
 trojan://auto@129.146.254.39:443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#EPODONIOS
 trojan://auto@iranserver.com:8443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#EPODONIOS
 trojan://auto@zula.ir:443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#EPODONIOS
@@ -125,20 +124,21 @@ trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@89.116.46.68:443?path=/my-wbv&secu
 trojan://djHTZmNXIVnA@18.199.218.181:16154?allowInsecure=0&sni=appsvs.shop#EPODONIOS
 trojan://e309e031-991e-4656-9934-44d10deb8fd8@188.114.98.0:443?path=/0962&security=tls&alpn=http/1.1&insecure=0&host=nimm.mpd.cc.cd.&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=nimm.mpd.cc.cd.#EPODONIOS
 trojan://ea4y8s7qdshp547j@195.15.202.111:4455?security=reality&sni=play-apps-features.googleusercontent.com&fp=chrome&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&sid=9b6b4ff59dce3d&spx=/3b2238cdad49967&type=tcp&headerType=none#EPODONIOS
+trojan://etZzUmNNgX@2.26.11.111:26594/?type=tcp&security=none#EPODONIOS
 trojan://euEUAqUnKhIX@18.226.163.196:15349?allowInsecure=0&sni=appsvs.shop#EPODONIOS
+trojan://f0eb8c92ce8946aaba856569cff1a16b@216.106.186.33:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#EPODONIOS
+trojan://f0eb8c92ce8946aaba856569cff1a16b@216.106.186.33:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#EPODONIOS
+trojan://f0eb8c92ce8946aaba856569cff1a16b@216.106.186.33:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#EPODONIOS
+trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#EPODONIOS
+trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#EPODONIOS
 trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#EPODONIOS
 trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#EPODONIOS
 trojan://fB+w_VgFFzpA-i_d@XbO@172.66.47.199:443?security=tls&sni=UlP3TYoRmvE1zVo8UVtVwEcwg.pAGES.DeV&alpn=http/1.1&fp=chrome&type=ws&host=ulp3tyormve1zvo8uvtvwecwg.pages.dev&path=/tr/0iOTFlYl1jA9mVIlhO8?ed=2560#EPODONIOS
-trojan://ffbqs22g2msdmjhh@87.107.169.233:7332?extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=bama.ir&mode=auto&path=/xiojdawgv&pbk=-4pAXB3dFLbQaDn2fEFUVS0bWQSKYJK5mx6lD0qR_BQ&security=reality&sid=5f59fa057fa3&sni=bama.ir&spx=/116de21540f2730&type=xhttp&x_padding_bytes=100-1000#EPODONIOS
-trojan://ffbqs22g2msdmjhh@87.107.169.233:7332?extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=bama.ir&mode=auto&path=/xiojdawgv&pbk=-4pAXB3dFLbQaDn2fEFUVS0bWQSKYJK5mx6lD0qR_BQ&security=reality&sid=5f59fa057fa3&sni=bama.ir&spx=/116de21540f2730&type=xhttp&x_padding_bytes=100-1000#EPODONIOS
 trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@104.16.174.44:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
-trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
-trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
-trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@104.18.152.233:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
@@ -149,10 +149,12 @@ trojan://humanity@104.18.35.86:443?path=/assignment&security=tls&alpn=http/1.1&f
 trojan://humanity@104.18.35.86:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&type=ws&allowInsecure=0&sni=www.volumerOot.coM.#EPODONIOS
 trojan://humanity@104.18.35.86:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&type=ws&allowInsecure=0&sni=www.volumerOot.coM.#EPODONIOS
 trojan://humanity@104.18.37.127:443?path=/assignment&security=tls&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#EPODONIOS
+trojan://humanity@104.18.45.38:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#EPODONIOS
 trojan://humanity@104.18.45.38:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@104.18.45.38:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@104.18.45.38:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
-trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
+trojan://humanity@104.18.45.38:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#EPODONIOS
+trojan://humanity@104.18.45.38:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#EPODONIOS
 trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0#EPODONIOS
@@ -163,6 +165,8 @@ trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&hos
 trojan://humanity@104.21.37.56:443?security=tls&sni=www.volumeroot.com&alpn=h3, h2, http/1.1&fp=chrome&type=ws&host=www.volumeroot.com&path=/assignment#EPODONIOS
 trojan://humanity@104.21.37.56:443?security=tls&sni=www.volumeroot.com&alpn=h3, h2, http/1.1&fp=chrome&type=ws&host=www.volumeroot.com&path=/assignment#EPODONIOS
 trojan://humanity@104.27.201.80:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
+trojan://humanity@104.27.203.207:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
+trojan://humanity@104.27.203.207:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@104.27.203.207:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@108.162.194.134:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@108.162.194.134:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
@@ -181,12 +185,21 @@ trojan://humanity@109.234.211.232:443?path=/assignment&security=tls&alpn=http/1.
 trojan://humanity@109.234.211.232:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@109.234.211.232:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@109.234.211.232:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
+trojan://humanity@131.196.254.151:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
+trojan://humanity@131.196.254.151:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
+trojan://humanity@141.101.115.104:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
+trojan://humanity@141.101.115.104:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
+trojan://humanity@141.101.115.104:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@141.193.213.172:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
+trojan://humanity@162.159.133.152:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@162.159.133.152:443?path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@162.159.133.152:443?path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@162.159.133.152:443?path=/assignment&security=tls&type=ws&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@162.159.36.20:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
+trojan://humanity@162.159.36.20:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#EPODONIOS
+trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
+trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@168.235.125.93:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@172.64.145.133:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@172.64.145.133:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
@@ -198,6 +211,8 @@ trojan://humanity@172.66.1.36:443?path=/assignment&security=tls&alpn=http/1.1&ho
 trojan://humanity@172.66.40.99:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&type=ws&allowInsecure=0&sni=www.trusteeforward.com#EPODONIOS
 trojan://humanity@172.66.40.99:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&type=ws&allowInsecure=0&sni=www.trusteeforward.com#EPODONIOS
 trojan://humanity@172.66.40.99:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#EPODONIOS
+trojan://humanity@172.66.40.99:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.trusteeforward.com#EPODONIOS
+trojan://humanity@172.66.40.99:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.trusteeforward.com#EPODONIOS
 trojan://humanity@172.66.40.99:443?security=tls&sni=www.trusteeforward.com&fp=chrome&alpn=http/1.1&type=ws&host=www.trusteeforward.com&path=/assignment#EPODONIOS
 trojan://humanity@172.66.40.99:443?security=tls&sni=www.trusteeforward.com&fp=chrome&alpn=http/1.1&type=ws&host=www.trusteeforward.com&path=/assignment#EPODONIOS
 trojan://humanity@172.66.40.99:443?security=tls&sni=www.trusteeforward.com&fp=chrome&alpn=http/1.1&type=ws&host=www.trusteeforward.com&path=/assignment#EPODONIOS
@@ -206,8 +221,14 @@ trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&ech
 trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@185.114.72.31:2053?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
+trojan://humanity@185.18.250.245:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
+trojan://humanity@185.18.250.245:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
+trojan://humanity@185.18.250.245:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@185.225.68.232:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@185.255.179.166:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
+trojan://humanity@188.114.97.5:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
+trojan://humanity@188.114.97.5:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
+trojan://humanity@188.114.97.5:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@188.114.97.6:443?cs=TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_RSA_WITH_AES_128_GCM_SHA256:TLS_RSA_WITH_AES_256_GCM_SHA384:TLS_RSA_WITH_AES_128_CBC_SHA:TLS_RSA_WITH_AES_256_CBC_SHA&path=/assignment?ed#Telegram---ProxyVPN11&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&ech=cloudflare-ech.com+udp://77.88.8.7&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@188.114.97.6:443?path=//assignment&security=tls&alpn=http/1.1&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@188.114.97.6:443?path=//assignment&security=tls&alpn=http/1.1&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
@@ -215,6 +236,8 @@ trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&f
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=www.ignitelimit.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#EPODONIOS
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.trusteeforward.com#EPODONIOS
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.trusteeforward.com#EPODONIOS
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
@@ -246,6 +269,10 @@ trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@188.114.97.7:443?path=/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@188.114.97.7:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&path=/assignment#EPODONIOS
+trojan://humanity@188.114.97.8:443?path=/assignment&security=tls&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
+trojan://humanity@188.114.97.8:443?path=/assignment&security=tls&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
+trojan://humanity@188.114.97.8:443?path=/assignment&security=tls&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
+trojan://humanity@188.114.97.8:443?path=/assignment&security=tls&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@188.114.98.0:443?allowInsecure=0&security=tls&insecure=0&alpn=http/1.1&host=www.calmlunch.com&type=ws&fp=chrome&sni=www.calmlunch.com&ech=cloudflare-ech.com+udp://1.1.1.1&path=/assignment#EPODONIOS
 trojan://humanity@188.114.98.0:443?cs=TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_RSA_WITH_AES_128_GCM_SHA256:TLS_RSA_WITH_AES_256_GCM_SHA384:TLS_RSA_WITH_AES_128_CBC_SHA:TLS_RSA_WITH_AES_256_CBC_SHA&path=/assignment?ed#Telegram---ProxyVPN11&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=unsafe&ech=cloudflare-ech.com+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.volumeroot.com#EPODONIOS
 trojan://humanity@188.114.98.0:443?fm={  "tcp" : [    {      "settings" : {        "lengths" : [          "0",          "104",          "1"        ],        "maxSplit" : "0",        "packets" : "tlshello",        "delays" : [          "0"        ]      },      "type" : "fragment"    },    {      "settings" : {        "lengths" : [          "114",          "1"        ],        "delays" : [          "1"        ],        "maxSplit" : "11",        "packets" : "1-1"      },      "type" : "fragment"    }  ]}&type=ws&host=www.pleadcourt.#EPODONIOS
@@ -259,13 +286,11 @@ trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&alpn=http/1.1&i
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.volumeroot.com#EPODONIOS
 trojan://humanity@188.114.98.0:443?path=/assignment?ed#Telegram---bored_vpn&security=tls&alpn=http/1.1&host=www.calmlunch.com&fp=chrome&type=ws&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@188.114.98.0:443?path=/assignment?ed#Telegram---mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@188.114.98.0:443?path=/assignment?ed&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0#EPODONIOS
 trojan://humanity@188.114.98.0:443?security=tls&sni=www.calmlunch.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&host=www.calmlunch.com&path=//assignment#EPODONIOS
-trojan://humanity@188.114.98.0:443?sni=www.calmlunch.com&type=ws#EPODONIOS
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&host=www.volumeroot.com&fp=chrome&type=ws&sni=www.volumeroot.com#EPODONIOS
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#EPODONIOS
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#EPODONIOS
@@ -274,16 +299,13 @@ trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&ho
 trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&fp=chrome&type=ws&host=www.volumeroot.com&path=/assignment#EPODONIOS
 trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&fp=chrome&type=ws&host=www.volumeroot.com&path=/assignment#EPODONIOS
 trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&fp=chrome&type=ws&host=www.volumeroot.com&path=/assignment#EPODONIOS
+trojan://humanity@190.93.245.148:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@190.93.245.148:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@190.93.245.148:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
-trojan://humanity@195.181.244.216:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
-trojan://humanity@195.181.244.216:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
-trojan://humanity@195.181.244.216:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@195.181.244.216:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@195.181.244.216:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@203.202.232.211:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#EPODONIOS
-trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&type=ws#EPODONIOS
 trojan://humanity@212.183.88.136:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@212.183.88.136:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@212.183.88.136:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
@@ -294,14 +316,18 @@ trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&ty
 trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@213.182.199.137:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
-trojan://humanity@31.57.190.71:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
+trojan://humanity@31.57.190.34:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@31.77.126.2:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#EPODONIOS
+trojan://humanity@45.128.76.242:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&type=ws&sni=www.calmlunch.com#EPODONIOS
+trojan://humanity@5.78.92.27:8443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
+trojan://humanity@5.78.92.27:8443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
+trojan://humanity@5.78.92.27:8443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&host=www.pleadcourt.org&fp=chrome&type=ws&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
@@ -320,14 +346,13 @@ trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&inse
 trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
-trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
+trojan://humanity@8.47.69.60:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@8.6.112.206:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&type=ws&allowInsecure=0&sni=www.trusteeforward.com#EPODONIOS
-trojan://humanity@8.6.112.206:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&type=ws&allowInsecure=0&sni=www.trusteeforward.com#EPODONIOS
+trojan://humanity@8.6.112.206:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#EPODONIOS
 trojan://humanity@8.6.112.206:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#EPODONIOS
 trojan://humanity@8.6.112.206:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#EPODONIOS
 trojan://humanity@85.31.102.163:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
-trojan://humanity@88.216.69.253:443?host=www.pleadcourt.org&path=/assignment&sni=www.pleadcourt.org&type=ws#EPODONIOS
 trojan://humanity@88.216.69.253:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
 trojan://humanity@CHATGPT.com:443?path=/assignment?Telegram---Config7x--CONFIG7X&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
@@ -337,6 +362,9 @@ trojan://humanity@render.com:443?path=/assignment&security=tls&insecure=0&host=w
 trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#EPODONIOS
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#EPODONIOS
+trojan://humanity@www.speedtest.net:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
+trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
+trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
@@ -360,7 +388,6 @@ trojan://mitivpn@146.75.57.238:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece2
 trojan://mitivpn@151.101.36.244:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=ns2.firefox.com#EPODONIOS
 trojan://mitivpn@151.101.36.244:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=ns2.firefox.com#EPODONIOS
 trojan://mitivpn@151.101.36.244:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=ns2.firefox.com#EPODONIOS
-trojan://mitivpn@151.101.36.244:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=ns2.firefox.com#EPODONIOS
 trojan://mitivpn@151.101.38.6:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--s3.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=www.firefox.com#EPODONIOS
 trojan://mitivpn@151.101.38.6:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--s3.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=www.firefox.com#EPODONIOS
 trojan://mitivpn@151.101.38.6:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--s3.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=www.firefox.com#EPODONIOS
@@ -374,6 +401,7 @@ trojan://mitivpn@167.82.64.46:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLAN
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/ bored_vpn&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=play.google.com#EPODONIOS
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/ mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=play.google.com#EPODONIOS
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@@MetiVIP/---@@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@@MetiVIP/---@@MetiVIP---@MetiVIP&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#EPODONIOS
+trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#EPODONIOS
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?&security=tls&alpn=http/1.1&insecure=0&host=mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#EPODONIOS
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?&security=tls&alpn=http/1.1&insecure=0&host=mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#EPODONIOS
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?DailyConfigs--DailyConfigs--DailyConfigs?ed=2048&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#EPODONIOS
@@ -382,7 +410,6 @@ trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece23
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?DailyConfigs--DailyConfigs--DailyConfigs?ed=2048&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#EPODONIOS
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--s2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#EPODONIOS
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#EPODONIOS
-trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#EPODONIOS
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#EPODONIOS
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram——AlbaluV2&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#EPODONIOS
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram——AlbaluV2&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#EPODONIOS
@@ -401,7 +428,6 @@ trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece23
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#EPODONIOS
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#EPODONIOS
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#EPODONIOS
-trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#EPODONIOS
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#EPODONIOS
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#EPODONIOS
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#EPODONIOS
@@ -428,7 +454,6 @@ trojan://mitivpn@188.114.98.0:443?security=tls&alpn=http/1.1&host=de.mitivpn.in.
 trojan://mitivpn@188.114.98.0:443?security=tls&alpn=http/1.1&insecure=0&host=de.mitivpn.in.net&fp=unsafe&type=ws&allowInsecure=0&sni=de.mitivpn.in.net#EPODONIOS
 trojan://mitivpn@188.114.98.0:443?security=tls&alpn=http/1.1&insecure=0&host=de.mitivpn.in.net&fp=unsafe&type=ws&allowInsecure=0&sni=de.mitivpn.in.net#EPODONIOS
 trojan://mitivpn@199.232.78.101:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/D-e2@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-trojan://mitivpn@199.232.78.160:443?host=mitivpn-mitivpn.ac.ir&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=http/1.1&fp=chrome&insecure=0&sni=community.fastly.steamstatic.com&security=tls&allowInsecure=0&type=ws&path=/?DailyConfigs--DailyConfigs--DailyConfigs?ed=2048#EPODONIOS
 trojan://mitivpn@199.232.78.160:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e1i@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-4.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 trojan://mitivpn@199.232.78.160:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e1i@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-4.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 trojan://mitivpn@199.232.78.160:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/D-e2@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
@@ -457,7 +482,6 @@ trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece
 trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--s2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=google.com#EPODONIOS
 trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#EPODONIOS
 trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com#EPODONIOS
-trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com#EPODONIOS
 trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com#EPODONIOS
 trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com#EPODONIOS
 trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/—@&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com#EPODONIOS
@@ -475,7 +499,6 @@ trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece
 trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com#EPODONIOS
 trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com#EPODONIOS
 trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#EPODONIOS
-trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#EPODONIOS
 trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#EPODONIOS
 trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#EPODONIOS
 trojan://mitivpn@199.232.78.160:443?security=tls&sni=community.fastly.steamstatic.com&fp=chrome&alpn=http/1.1&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=ws&host=mitivpn-mitivpn.ac.ir&path=/?DailyConfigs--DailyConfigs--DailyConfigs?ed=2048#EPODONIOS
@@ -487,9 +510,6 @@ trojan://mitivpn@199.232.78.188:443?path=/?Telegram---PLANB_NET---PLANB_NET---PL
 trojan://mitivpn@199.232.78.188:443?path=@rzea8pppooopppppppp&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 trojan://mitivpn@199.232.78.188:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 trojan://mitivpn@199.232.78.188:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-trojan://mitivpn@199.232.9.244:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=ns1.firefox.com&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#EPODONIOS
-trojan://mitivpn@199.232.9.244:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=ns1.firefox.com&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#EPODONIOS
-trojan://mitivpn@199.232.9.244:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=ns1.firefox.com&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#EPODONIOS
 trojan://mitivpn@199.232.9.244:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=ns1.firefox.com&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#EPODONIOS
 trojan://mitivpn@199.232.9.244:443?type=ws&host=mitivpn-mitivpn.ac.ir&insecure=0&security=tls&sni=ns1.firefox.com&alpn=http/1.1&path=/?Telegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP&fp=chrome&allowInsecure=0&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#EPODONIOS
 trojan://mitivpn@27.50.48.49:443?path=/index.html/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#EPODONIOS
