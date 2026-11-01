@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-01-Nov-2026 01:53
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-01-Nov-2026 05:17
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?security=reality&amp;encryption=none&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fuck.rkn&amp;sid=01#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 vless://d342d11e-d224-4463-b982-532309285094@104.18.35.15:443?path=%2Ffp%3Dchrome%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=ccc.010304.xyz&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ccc.010304.xyz#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
