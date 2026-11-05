@@ -1,8 +1,8 @@
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.21.236.63:443?security=tls&type=ws&path=%2F&host=u.srilankangrill.online&packetEncoding=xudp&sni=u.srilankangrill.online&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.45:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.63:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
-vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@saas.sin.fan:2087?security=tls&type=ws&path=%2Fout&host=vp2.1145678.xyz&packetEncoding=xudp&sni=vp2.1145678.xyz&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://e07a6d05-f665-4811-91f0-9b3dc1094e4d@13.140.80.136:443?security=reality&type=tcp&packetEncoding=xudp&sni=tradingview.com&fp=firefox&flow=xtls-rprx-vision&sid=8f3c6e2a1b5d4f09&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38#%E7%BE%8E%E5%9B%BD+Xerox
+vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&security=&type=tcp#%E5%8C%97%E4%BA%AC%E5%B8%82+%E6%83%9F%E8%AF%91%E5%A4%A9%E5%88%9B%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+vless://0afc6426-606c-48e7-bd70-3c424a416842@us22.sofast.live:58011?encryption=none&security=&type=tcp#%E5%8C%97%E4%BA%AC%E5%B8%82+%E6%83%9F%E8%AF%91%E5%A4%A9%E5%88%9B%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swedenafteraventura.space:443?security=reality&encryption=none&pbk=TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swedenafteraventura.space#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.27:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@152.175.6.229:31884?sni=hk010.zestapp778.com&fp=chrome&security=tls#%E6%99%BA%E5%88%A9+V2CROSS.COM
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
-ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ==@154.36.158.197:8388#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE=@46.17.46.27:18443#%E4%BF%84%E7%BD%97%E6%96%AF+%E9%9E%91%E9%9D%BC%E6%96%AF%E5%9D%A6%E5%96%80%E5%B1%B1justhost
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
